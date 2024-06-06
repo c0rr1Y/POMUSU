@@ -23,8 +23,8 @@ Banner = '''\033[1;31m
 # 设置线程数，默认30
 threads = 60
 
-ceye_rawurl = "8rrsa8.ceye.io"
-ceye_token = "27c12e2c352d76a9fc1f48b2d1f08ab6"
+ceye_rawurl = ""
+ceye_token = ""
 
 ysoserial="D:\ctftools\ysoserial-all.jar"
 
