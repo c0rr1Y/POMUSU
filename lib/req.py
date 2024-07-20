@@ -13,7 +13,7 @@ from urllib.parse import urlsplit, urljoin
 
 
 
-from config.data import Urls,Urlerror
+from config.data import Urls
 from config import config
 from lib.identify import Identify
 from bs4 import BeautifulSoup

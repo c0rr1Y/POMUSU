@@ -21,7 +21,7 @@ Banner = '''\033[1;31m
 '''.format(Author)
 
 # 设置线程数，默认30
-threads = 60
+threads = 50
 
 ceye_rawurl = ""
 ceye_token = ""
