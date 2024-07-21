@@ -4,7 +4,7 @@
 import argparse
 
 def cmdline():
-    parser = argparse.ArgumentParser(description="曹颖的python渗透期末作品")
+    parser = argparse.ArgumentParser(description="")
     target = parser.add_argument_group('Target')
     target.add_argument('-u',dest='url',type=str,help="Input your url target")
     target.add_argument('-f',dest='file',type=str,help="Input your target's file")
